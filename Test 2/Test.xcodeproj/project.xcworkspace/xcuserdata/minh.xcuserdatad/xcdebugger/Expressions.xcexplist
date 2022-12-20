@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "FloatingTextField.updateLabel(animated:):FloatingTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "offsetX">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CategoriesListVC.viewDidLayoutSubviews():CategoriesListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentRect.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoriesListVC.viewDidLayoutSubviews():CategoriesListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.heightContentView.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoriesListVC.changeCollectionHeight():CategoriesListVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.heightContentView.constant">
+            </PersistentString>
+            <PersistentString
+               value = "heightContentView.constant">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "URLSessionRequest.fetchData&lt;&#x3c4;_0_0&gt;(_:method:headers:body:completion:):URLSessionRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlRequest.httpBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
