@@ -12,14 +12,6 @@ private extension TimeInterval {
     static let animation250ms: TimeInterval = 0.25
 }
 
-
-
-
-
-
-
-
-
 private extension UIColor {
     static let inactive: UIColor = .gray
 }
