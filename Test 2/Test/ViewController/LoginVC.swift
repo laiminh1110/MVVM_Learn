@@ -49,7 +49,10 @@ class LoginVC: UIViewController {
         print("viewDidDisappear")
     }
     
-
+    private func  setupKeyBoardAppear(){
+        
+        
+    }
     
     private func setupBinding(){
         viewModelSignUp.signUpModel.bind { [weak self ] signModel in
