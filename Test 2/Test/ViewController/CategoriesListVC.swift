@@ -32,14 +32,14 @@ class CategoriesListVC: UIViewController {
     }
     
     private func setupBindingData(){
-        viewModelCategories.categoriesList.bind { [weak self] cateModel in
+        viewModelCategories.categoriesListModel.bind { [weak self] cateModel in
             print("categoriesList.bind ")
 
             guard let cateModel = cateModel,
                   let arr = cateModel.categories else {return}
             DispatchQueue.main.async {
                 print("DispatchQueue.main.async")
-                self?.arrCategories = arr 
+                self?.arrCategories = arr
                 self?.clsViewCategories.reloadData()
             }
         }

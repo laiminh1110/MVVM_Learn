@@ -8,6 +8,16 @@
 import Foundation
 import UIKit
 
+
+/**
+ How  will ViewModel comunicate?
+ + Protocol Delegate
+ + Closures
+ + Property Observers (BOX)
+ + Funcion Reactive Programing, Combine
+ */
+
+// Property Observers(Box)
 final class ObserableObject<T>{
     //
     var value:T{
